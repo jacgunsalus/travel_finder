@@ -1,0 +1,62 @@
+h1 {
+    background-color: #DCDCDC;
+    color: black;
+    text-align: left;
+    font-size: 50px;
+    margin-left: 50pt; 
+    margin-top: 15pt;
+    margin-bottom: 15pt;
+    margin-right: 10pt;
+    padding-right: 10pt;
+    padding-left: 20pt;
+    width: 130pt;
+    border-style: solid;
+    border-color: white;
+  }
+
+body {
+
+    background-size: 800px;
+  }
+    
+  
+  #Sydney {
+    width: 260px;
+    height: 220px;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: gray;
+    background-image: url("https://www.australia.com/content/australia/en/places/sydney-and-surrounds/guide-to-sydney/jcr:content/mainParsys/featureimage_e3dd/imageSrc.adapt.414.medium.jpg");
+    background-size: 300px;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    margin: 0pt 10pt 10pt 50pt;
+  }
+  
+  #Sydney:hover {
+    background-image: none;
+    background-color: #DCDCDC;
+    cursor: pointer;
+  }
+  
+  /* Agra */
+  #Cairns {
+    width: 260px;
+    height: 220px;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: gray;
+    background-image: url("");
+    background-size: 350px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0pt 10pt 10pt 50pt;
+  }
+  
+  #Cairns:hover {
+    background-image: none;
+    background-color: #DCDCDC;
+    cursor: pointer;
+  }

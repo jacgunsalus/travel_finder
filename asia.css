@@ -1,0 +1,145 @@
+h1 {
+    background-color: #DCDCDC;
+    color: black;
+    text-align: left;
+    font-size: 50px;
+    margin-left: 50pt; 
+    margin-top: 15pt;
+    margin-bottom: 15pt;
+    margin-right: 10pt;
+    padding-right: 10pt;
+    padding-left: 20pt;
+    width: 80pt;
+    border-style: solid;
+    border-color: white;
+  }
+
+body {
+    background-image: url("https://i.pinimg.com/originals/17/6c/a5/176ca594df15956902f7b432f5c40ae8.gif");
+    background-size: 800px;
+  }
+    
+  
+  #KualaLumpur {
+    width: 260px;
+    height: 220px;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: gray;
+    background-image: url("https://kulha.cdn.setuix.net/uploads/content/_square_2016/shutterstock_327012479_600x600px.jpg");
+    background-size: 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0pt 10pt 10pt 50pt;
+  }
+  
+  #KualaLumpur:hover {
+    background-image: none;
+    background-color: #DCDCDC;
+    cursor: pointer;
+  }
+  
+  /* Agra */
+  #Agra {
+    width: 260px;
+    height: 220px;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: gray;
+    background-image: url("https://live.staticflickr.com/4789/38778867580_1a6c3bd2e0_b.jpg");
+    background-size: 380px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0pt 10pt 10pt 50pt;
+  }
+  
+  #Agra:hover {
+    background-image: none;
+    background-color: #DCDCDC;
+    cursor: pointer;
+  }
+  
+  #Tokyo {
+    width: 260px;
+    height: 220px;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: gray;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMQPhheXhxE-H-zBX96cqhg6HTmICRvaOhPeMOH6m5N5f6RKg3");
+    background-size: 320px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 20pt 10pt 10pt 50pt;
+  }
+  
+  #Tokyo:hover {
+    background-image: none;
+    background-color: #DCDCDC;
+    cursor: pointer;
+  }
+  
+  #Seoul {
+    width: 260px;
+    height: 220px;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: gray;
+    background-image: url("https://media.architecturaldigest.com/photos/5c0ed0538d2a442e241057b1/16:9/w_1280,c_limit/GettyImages-771579891.jpg");
+    background-size: 435px;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    margin: 20pt 10pt 10pt 50pt;
+  }
+
+  #Seoul:hover {
+    background-image: none;
+    background-color: #DCDCDC;
+    cursor: pointer;
+  }
+  
+
+  #HongKong {
+    width: 260px;
+    height: 220px;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: gray;
+    background-image: url("https://www.nationsonline.org/gallery/Hong-Kong/Hongkong-panorama-at-night.jpg");
+    background-size: 340px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 20pt 10pt 10pt 50pt;
+  }
+
+  #HongKong:hover {
+    background-image: none;
+    background-color: #DCDCDC;
+    cursor: pointer;
+  }
+  
+
+  #Bangkok {
+    width: 260px;
+    height: 220px;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: gray;
+    background-image: url("https://pix10.agoda.net/geo/city/9395/1_9395_02.jpg?s=1920x822");
+    background-size: 425px;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    margin: 20pt 10pt 10pt 50pt;
+  }
+
+  #Bangkok:hover {
+    background-image: none;
+    background-color: #DCDCDC;
+    cursor: pointer;
+  }
+  

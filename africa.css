@@ -1,0 +1,102 @@
+h1 {
+    background-color: #DCDCDC;
+    color: black;
+    text-align: left;
+    font-size: 50px;
+    margin-left: 50pt; 
+    margin-top: 15pt;
+    margin-bottom: 15pt;
+    margin-right: 10pt;
+    padding-right: 10pt;
+    padding-left: 20pt;
+    width: 130pt;
+    border-style: solid;
+    border-color: white;
+  }
+
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_gQexCxV_ALOyJofUFNDiPrGc6ecdccpE9N4_pPXYkGRKgpVe");
+    background-size: 800px;
+  }
+    
+  
+  #Cairo {
+    width: 260px;
+    height: 220px;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: gray;
+    background-image: url("https://s-ec.bstatic.com/images/hotel/max1024x768/772/77286620.jpg");
+    background-size: 300px;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    margin: 0pt 10pt 10pt 50pt;
+  }
+  
+  #Cairo:hover {
+    background-image: none;
+    background-color: #DCDCDC;
+    cursor: pointer;
+  }
+  
+  /* Agra */
+  #Casablanca {
+    width: 260px;
+    height: 220px;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: gray;
+    background-image: url("https://s3-us-west-1.amazonaws.com/www.vivaglammagazine.com/wp-content/uploads/2019/02/Casablanca-Morocco-city-of-color-and-texture-1000x600.jpg");
+    background-size: 350px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0pt 10pt 10pt 50pt;
+  }
+  
+  #Casablanca:hover {
+    background-image: none;
+    background-color: #DCDCDC;
+    cursor: pointer;
+  }
+  
+  #Capetown {
+    width: 260px;
+    height: 220px;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: gray;
+    background-image: url("https://www.bcdtravel.com/move-se/wp-content/uploads/sites/134/2015/04/Cape-Town-April-2015.jpg");
+    background-size: 370px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 20pt 10pt 10pt 50pt;
+  }
+  
+  #Capetown:hover {
+    background-image: none;
+    background-color: #DCDCDC;
+    cursor: pointer;
+  }
+  
+  #Gaborone {
+    width: 260px;
+    height: 220px;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: gray;
+    background-image: url("https://images.trvl-media.com/hotels/3000000/2670000/2667300/2667281/139bd63e_z.jpg");
+    background-size: 420px;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    margin: 20pt 10pt 10pt 50pt;
+  }
+
+  #Gaborone:hover {
+    background-image: none;
+    background-color: #DCDCDC;
+    cursor: pointer;
+  }

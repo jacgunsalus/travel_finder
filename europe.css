@@ -1,0 +1,145 @@
+h1 {
+    background-color: #DCDCDC;
+    color: black;
+    text-align: left;
+    font-size: 50px;
+    margin-left: 50pt; 
+    margin-top: 15pt;
+    margin-bottom: 15pt;
+    margin-right: 10pt;
+    padding-right: 10pt;
+    padding-left: 20pt;
+    width: 130pt;
+    border-style: solid;
+    border-color: white;
+  }
+
+body {
+    background-image: url("https://previews.123rf.com/images/netsign33/netsign331803/netsign33180300008/97717505-political-sihouette-map-of-central-europe-black-and-white-vector-graphic.jpg");
+    background-size: 880px;
+  }
+    
+  
+  #London {
+    width: 260px;
+    height: 220px;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: gray;
+    background-image: url("https://cdn.londonandpartners.com/visit/general-london/areas/river/76709-640x360-houses-of-parliament-and-london-eye-on-thames-from-above-640.jpg");
+    background-size: 380px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0pt 10pt 10pt 50pt;
+  }
+  
+  #London:hover {
+    background-image: none;
+    background-color: #DCDCDC;
+    cursor: pointer;
+  }
+  
+  /* Paris */
+  #Paris {
+    width: 260px;
+    height: 220px;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: gray;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgE3u0zDefkM-Q5XKQcq-6ltGyc4Ey9nugxn2dpCr6IG4YjVFmJw");
+    background-size: 380px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0pt 10pt 10pt 50pt;
+  }
+  
+  #Paris:hover {
+    background-image: none;
+    background-color: #DCDCDC;
+    cursor: pointer;
+  }
+  
+  #Rome {
+    width: 260px;
+    height: 220px;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: gray;
+    background-image: url("https://www.fodors.com/wp-content/uploads/2018/10/HERO_UltimateRome_Hero_shutterstock789412159.jpg");
+    background-size: 340px;
+    background-repeat: no-repeat;
+    background-position: top right;
+    margin: 20pt 10pt 10pt 50pt;
+  }
+  
+  #Rome:hover {
+    background-image: none;
+    background-color: #DCDCDC;
+    cursor: pointer;
+  }
+  
+  #Prague {
+    width: 260px;
+    height: 220px;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: gray;
+    background-image: url("http://bi.gazeta.pl/im/88/7f/be/z12484488IH,Praga--Czechy--Fot--Shutterstock.jpg");
+    background-size: 340px;
+    background-repeat: no-repeat;
+    background-position: top right;
+    margin: 20pt 10pt 10pt 50pt;
+  }
+
+  #Prague:hover {
+    background-image: none;
+    background-color: #DCDCDC;
+    cursor: pointer;
+  }
+  
+
+  #Amsterdam {
+    width: 260px;
+    height: 220px;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: gray;
+    background-image: url("https://previews.123rf.com/images/dimol/dimol1803/dimol180300047/97588001-amterdam-canal-boats-and-medieval-houses-in-the-evening.jpg");
+    background-size: 340px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 20pt 10pt 10pt 50pt;
+  }
+
+  #Amsterdam:hover {
+    background-image: none;
+    background-color: #DCDCDC;
+    cursor: pointer;
+  }
+  
+
+  #Venice {
+    width: 260px;
+    height: 220px;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: gray;
+    background-image: url("https://media.timeout.com/images/105278500/image.jpg");
+    background-size: 320px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 20pt 10pt 10pt 50pt;
+  }
+
+  #Venice:hover {
+    background-image: none;
+    background-color: #DCDCDC;
+    cursor: pointer;
+  }
+  

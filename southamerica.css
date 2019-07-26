@@ -1,0 +1,102 @@
+h1 {
+    background-color: #DCDCDC;
+    color: black;
+    text-align: left;
+    font-size: 50px;
+    margin-left: 50pt; 
+    margin-top: 15pt;
+    margin-bottom: 15pt;
+    margin-right: 10pt;
+    padding-right: 10pt;
+    padding-left: 20pt;
+    width: 250pt;
+    border-style: solid;
+    border-color: white;
+  }
+
+body {
+    background-image: url("https://www.wpclipart.com/geography/continents/South_America/South_America_large_BW.png");
+    background-size: 380px;
+  }
+    
+  
+  #buenosAires {
+    width: 260px;
+    height: 220px;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: gray;
+    background-image: url("https://www.ciee.org/sites/default/files/content/page/hero/image/hero-buenosaires-619664252.jpg");
+    background-size: 380px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0pt 10pt 10pt 50pt;
+  }
+  
+  #buenosAires:hover {
+    background-image: none;
+    background-color: #DCDCDC;
+    cursor: pointer;
+  }
+  
+  /* Lima */
+  #Lima {
+    width: 260px;
+    height: 220px;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: gray;
+    background-image: url("https://tellanto.com/wp-content/uploads/2018/07/Where-to-stay-in-Lima-Peru-as-a-student.jpg");
+    background-size: 380px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0pt 10pt 10pt 50pt;
+  }
+  
+  #Lima:hover {
+    background-image: none;
+    background-color: #DCDCDC;
+    cursor: pointer;
+  }
+  
+  #rdj {
+    width: 260px;
+    height: 220px;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: gray;
+    background-image: url("https://i.pinimg.com/originals/e1/61/c6/e161c611465d8c60f1f37436e72da252.jpg");
+    background-size: 280px;
+    background-repeat: no-repeat;
+    background-position: top right;
+    margin: 20pt 10pt 10pt 50pt;
+  }
+  
+  #rdj:hover {
+    background-image: none;
+    background-color: #DCDCDC;
+    cursor: pointer;
+  }
+  
+  #Santiago {
+    width: 260px;
+    height: 220px;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: gray;
+    background-image: url("https://www.hellomagazine.com/imagenes/travel/2017121444802/top-10-things-to-do-santiago-chile/0-226-737/1-Santiago-Chile-t.jpg");
+    background-size: 355px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 20pt 10pt 10pt 50pt;
+  }
+  
+  #Santiago:hover {
+    background-image: none;
+    background-color: #DCDCDC;
+    cursor: pointer;
+  }

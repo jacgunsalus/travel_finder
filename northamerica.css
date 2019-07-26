@@ -1,0 +1,102 @@
+h1 {
+    background-color: #DCDCDC;
+    color: black;
+    text-align: left;
+    font-size: 50px;
+    margin-left: 50pt; 
+    margin-top: 15pt;
+    margin-bottom: 15pt;
+    margin-right: 10pt;
+    padding-right: 10pt;
+    padding-left: 20pt;
+    width: 250pt;
+    border-style: solid;
+    border-color: white;
+  }
+
+body {
+    background-image: url("http://www.pngall.com/wp-content/uploads/2017/11/North-America-Map-PNG-Image.png");
+    background-size: 380px;
+  }
+    
+  
+  #cancun {
+    width: 260px;
+    height: 220px;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: gray;
+    background-image: url("https://www.westjet.com/assets/wj-web/images/hotels/cun/cunbcc-barcelo-costa-cancun/main/cunbcc-occidental-costa-cancun_pool.jpg");
+    background-size: 380px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0pt 10pt 10pt 50pt;
+  }
+  
+  #cancun:hover {
+    background-image: none;
+    background-color: #DCDCDC;
+    cursor: pointer;
+  }
+  
+  /* NYC */
+  #NYC {
+    width: 260px;
+    height: 220px;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: gray;
+    background-image: url("https://media.tacdn.com/media/attractions-splice-spp-674x446/06/73/10/c0.jpg");
+    background-size: 380px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0pt 10pt 10pt 50pt;
+  }
+  
+  #NYC:hover {
+    background-image: none;
+    background-color: #DCDCDC;
+    cursor: pointer;
+  }
+  
+  #grandCanyon {
+    width: 260px;
+    height: 220px;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: gray;
+    background-image: url("https://standbynordic.com/wp-content/uploads/2019/02/Grand-Canyon_nps.jpg");
+    background-size: 380px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 20pt 10pt 10pt 50pt;
+  }
+  
+  #grandCanyon:hover {
+    background-image: none;
+    background-color: #DCDCDC;
+    cursor: pointer;
+  }
+  
+  #Quebec {
+    width: 260px;
+    height: 220px;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: gray;
+    background-image: url("https://www.cunard.com/content/dam/cunard/inventory-assets/itineraries/M931/M931/M931.jpg.1533563541896.image.750.562.low.jpg");
+    background-size: 380px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 20pt 10pt 10pt 50pt;
+  }
+  
+  #Quebec:hover {
+    background-image: none;
+    background-color: #DCDCDC;
+    cursor: pointer;
+  }
