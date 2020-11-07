@@ -23,14 +23,14 @@ h1 {
 
 /* North America Button Styling*/
 .northAmerica {
-  width: 200px;
-  height: 220px;
+  width: 260px;
+  height: 300px;
   border-radius: 25px;
   border-style: solid;
   border-width: 5px;
   border-color: gray;
   background-image: url("https://static.wixstatic.com/media/a86c91_cc21f3f64367430f8692348386bcbacf~mv2.png/v1/fill/w_420,h_460,al_c,q_80,usm_0.66_1.00_0.01/a86c91_cc21f3f64367430f8692348386bcbacf~mv2.webp");
-  background-size: 220px;
+  background-size: 260px;
   background-repeat: no-repeat;
   background-position: center;
   margin: 0pt 10pt 10pt 50pt;
@@ -38,14 +38,14 @@ h1 {
 
 /* South America Button Styling*/
 .southAmerica {
-  width: 200px;
-  height: 220px;
+  width: 260px;
+  height: 300px;
   border-radius: 25px;
   border-style: solid;
   border-width: 5px;
   border-color: gray;
   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqUVIxz8y7QCwdOk-liPg_SIb3PFsw7aNrwc5kqLKFjt97pqe4");
-  background-size: 200px;
+  background-size: 230px;
   background-repeat: no-repeat;
   background-position: center;
   margin: 0pt 10pt 10pt 20pt;
@@ -53,14 +53,14 @@ h1 {
 
 /* Europe Button Styling */
 .europe {
-  width: 200px;
-  height: 220px;
+  width: 260px;
+  height: 300px;
   border-radius: 25px;
   border-style: solid;
   border-width: 5px;
   border-color: gray;
   background-image: url("http://vrcgs.com/wp-content/uploads/2019/02/105819-20-western-europe-map-outline.gif");
-  background-size: 185px;
+  background-size: 215px;
   background-repeat: no-repeat;
   background-position: center;
   margin: 0pt 10pt 10pt 20pt;
@@ -68,14 +68,14 @@ h1 {
 
 /* Asia Button Styling */
 .asia {
-  width: 200px;
-  height: 220px;
+  width: 260px;
+  height: 300px;
   border-radius: 25px;
   border-style: solid;
   border-width: 5px;
   border-color: gray;
   background-image: url("https://i.pinimg.com/originals/17/6c/a5/176ca594df15956902f7b432f5c40ae8.gif");
-  background-size: 230px;
+  background-size: 260px;
   background-repeat: no-repeat;
   background-position: center;
   margin: 10pt 10pt 10pt 50pt;
@@ -83,14 +83,14 @@ h1 {
 
 /* Africa Button Styling */
 .africa {
-  width: 200px;
-  height: 220px;
+  width: 260px;
+  height: 300px;
   border-radius: 25px;
   border-style: solid;
   border-width: 5px;
   border-color: gray;
   background-image: url("https://paintingvalley.com/sketches/map-of-africa-sketch-29.gif");
-  background-size: 220px;
+  background-size: 300px;
   background-repeat: no-repeat;
   background-position: center;
   margin: 10pt 10pt 10pt 20pt;
@@ -98,14 +98,14 @@ h1 {
 
 /* Oceania Button Styling */
 .oceania {
-  width: 200px;
-  height: 220px;
+  width: 260px;
+  height: 300px;
   border-radius: 25px;
   border-style: solid;
   border-width: 5px;
   border-color: gray;
   background-image: url("https://i.pinimg.com/originals/37/df/7f/37df7f8f06f7d4eecc37560fa84718dd.jpg");
-  background-size: 195px;
+  background-size: 210px;
   background-repeat: no-repeat;
   background-position: center;
   margin: 10pt 10pt 10pt 20pt;
